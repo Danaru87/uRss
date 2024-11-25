@@ -1,0 +1,5 @@
+name: urss
+
+packages:
+  - apps/**
+  - packages/**
